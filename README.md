@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **kevinpham.ic0yt@slmail.me**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1tHuLhRlVC45zgIrHKK-bKnFc_G0Y7om3Do8k9p_feNQ/edit?usp=sharing](https://docs.google.com/document/d/1tHuLhRlVC45zgIrHKK-bKnFc_G0Y7om3Do8k9p_feNQ/edit?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://docs.google.com/document/d/1tHuLhRlVC45zgIrHKK-bKnFc_G0Y7om3Do8k9p_feNQ/edit?usp=sharing)
 
 - ⚡ Fun fact **I "invest" money into custom keyboards**
 
