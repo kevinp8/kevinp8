@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kevin Pham</h1>
 <h3 align="center">Software Engineer @ 100devs</h3>
 
-- 👨‍💻 All of my projects are available at [https://kevinpportfolio.netlify.app/](https://kevinpportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://kevinfullstack.netlify.app/](https://kevinfullstack.netlify.app/)
 
 - 💬 Ask me about **MERN**
 
