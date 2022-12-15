@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **kevinpham.ic0yt@slmail.me**
+- 📫 How to reach me **kevinhp821@gmail.com**
 
 - ⚡ Fun fact: **I "invest" money into custom keyboards**
 
