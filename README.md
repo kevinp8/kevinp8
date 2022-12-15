@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **kevinhp821@gmail.com**
 
-- ⚡ Fun fact: **I "invest" money into custom keyboards**
+- ⚡ Fun fact: **I am a big foodie and mechanical keyboard enthusiast**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
